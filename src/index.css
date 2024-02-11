@@ -5,9 +5,27 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+}
+
+.iconButton:hover{
+background: transparent !important;
+border:1px solid #000;
+color: #000;
+}
+
+.viewDetails:hover{
+  scale: 1.2;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.card_mui{
+  transition: all 1s ease;
+}
+.card_mui:hover{
+  scale: 1.02;
 }

@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#Add the token in .env file to run the project.
+
 ## Available Scripts
 
 In the project directory, you can run:
